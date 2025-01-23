@@ -2,7 +2,7 @@ os
 requests
 replicate
 playsound
-streamlit
+streamlit:24.3.1
 tempfile
 openai
 deepseek-r1
