@@ -1,0 +1,8 @@
+os
+requests
+replicate
+playsound
+streamlit
+tempfile
+openai
+deepseek-r1

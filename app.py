@@ -8,7 +8,7 @@ from openai import OpenAI  # Ensure the OpenAI library is installed
 
 # Initialize OpenAI client
 client = OpenAI(
-    api_key="DEEPSEEK_API_KEY",  # Replace with your API key
+    api_key="sk-86780e6b88ab4d1d91c3c2229303a79b",  # Replace with your API key
     base_url="https://api.deepseek.com"
 )
 SYSTEME_PROMPT = """ 
